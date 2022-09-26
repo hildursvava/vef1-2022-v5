@@ -1,7 +1,7 @@
 
 # Vefforritun 1, 2022: Verkefni 5, CSS #3
 
-[Kynning í fyrirlestri](https://youtu.be/).
+[Kynning í fyrirlestri](https://youtu.be/LSkJn8440xI).
 
 Haldið áfram með viðmót úr [verkefni 4](https://github.com/vefforritun/vef1-2022-v4) en nú er sett upp grind með CSS grid og vefurinn gerður skalanlegur
 
