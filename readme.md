@@ -50,7 +50,7 @@ Setja skal upp grind með CSS grid, grind skal vera:
 
 Þessar breytur eru tilteknar í `styles.css`. Gefið er `grid.css` skjal sem setur viðmiðunargrind yfir vefinn. Skila skal með vísun í þetta skjal (þ.e.a.s. grind skal sjást.)
 
-Sjá má hvernig sýnilausn að verkefni 4 er næstum innan grindar, en ójafnvægi og mismunandi bil er um að ræða.
+Sjá má hvernig sýnilausn að verkefni 4 er næstum innan grindar, en ójafnvægi og mismunandi bil er um að ræða á myndinni `v4-index-1600px-grid.png`.
 
 Vefur skal vera skalanlegur (e. responsive). Miða skal við að:
 
@@ -160,4 +160,4 @@ Myndir frá [Unsplash](https://unsplash.com/):
 * [Annie Spratt](https://unsplash.com/@anniespratt)
 * [Josie Weiss](https://unsplash.com/es/@scarlettweiss)
 
-> Útgáfa 0.1
+> Útgáfa 0.2 (vísa í mynd af grid með sýnilausn v4)
